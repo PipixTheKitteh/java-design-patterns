@@ -160,16 +160,18 @@
     <dependency>
       <groupId>org.apache.isis.core</groupId>
       <artifactId>isis-core-viewer-restfulobjects-server</artifactId>
-    </dependency>
+	    <version>1.15.0</version>
+	  </dependency>
     <dependency>
       <groupId>org.apache.isis.core</groupId>
       <artifactId>isis-core-security-shiro</artifactId>
+	        <version>1.15.0</version>
     </dependency>
     <!-- isis core -->
     <dependency>
       <groupId>org.apache.isis.core</groupId>
       <artifactId>isis-core-runtime</artifactId>
-      <version>1.12.2</version>
+      <version>1.15.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.isis.core</groupId>
