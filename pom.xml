@@ -58,7 +58,7 @@
       <log4j.version>2.17.2</log4j.version>
     <logback.version>1.2.7</logback.version>
     <aws-lambda-core.version>1.1.0</aws-lambda-core.version>
-    <aws-java-sdk-dynamodb.version>1.12.13</aws-java-sdk-dynamodb.version>
+    <aws-java-sdk-dynamodb.version>1.12.585</aws-java-sdk-dynamodb.version>
     <aws-lambda-java-events.version>2.0.1</aws-lambda-java-events.version>
     <jackson.version>2.13.2</jackson.version>
     <jaxb-api.version>2.3.1</jaxb-api.version>
